@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const Expense = () => {
   return (
@@ -6,4 +6,4 @@ const Expense = () => {
   )
 }
 
-export default Expense
+export default Expense;
